@@ -1,0 +1,3 @@
+venv
+.env
+application.log

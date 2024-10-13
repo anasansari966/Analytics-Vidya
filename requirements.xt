@@ -1,0 +1,11 @@
+langchain==0.0.196
+langchain-core==0.0.196
+langchain-groq==0.0.1
+langchain-community==0.0.1
+chromadb==0.3.21
+pandas==1.5.3
+python-dotenv==1.0.0
+transformers==4.31.0
+torch==2.0.1
+termcolor==2.3.0
+JinaAI==0.14.0
